@@ -122,7 +122,7 @@ int main()
 		cout<<"Book ID \t Student ID \t Return date\n";
 		for(int i=0;i<j;i++)
 		{
-			cout<<st[i]<<"\t"<<store[i][1]<<"\t"<<"7 days from "<<date<<"\n";
+			cout<<st[i][0]<<"\t"<<st[i][1]<<"\t"<<"7 days from "<<date<<"\n";
 		}
 	}
 }
