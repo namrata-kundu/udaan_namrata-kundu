@@ -1,0 +1,89 @@
+1
+Harry Potter and the Philosopher's Stone
+J. K. Rowling
+2
+Harry Potter and the Chamber of Secrets
+J. K. Rowling
+3
+Harry Potter and the Prisoner of Azkaban
+J. K. Rowling
+4
+Harry Potter and the Half-Blood Prince
+J. K. Rowling
+5
+Harry Potter and the Order of the Phoenix
+J. K. Rowling
+6
+Harry Potter and the Goblet of Fire
+J. K. Rowling
+7
+Harry Potter and the Deathly Hallows
+J. K. Rowling
+8
+The Hobbit; or There and Back Again
+J. R. R. Tolkien
+9
+1984
+George Orwell
+10
+Pride and Prejudice
+Jane Austen
+11
+The Da Vinci Code
+Dan Brown
+12
+To Kill a Mockingbird
+Harper Lee
+13
+The Catcher in the Rye
+J. D. Salinger
+14
+The Great Gats
+F. Scott Fitzgerald
+15
+Twilight
+Stephenie Meyer
+16
+The Hunger Games
+Suzanne Collins
+17
+Kite Runner
+Khaled Hosseini
+18
+Jane Eyre
+Charlotte Brontë
+19
+Animal Farm
+George Orwell
+20
+Brave New World
+21
+Aldous Huxley
+The Lord of the Rings
+22
+J. R. R. Tolkien
+The Fellowship of the Ring: Being the First Part of The Lord of the Rings
+23
+J. R. R. Tolkien
+Angels & Demons
+24
+Dan Brown
+New Moon
+25
+Stephenie Meyer
+Fahrenheit 451
+26
+Ray Bradbury
+Wuthering Height
+27
+Emily Brontë
+The Curious Incident of the Dog in the Night-Time
+28
+Mark Haddon
+Lord of the Flies
+29
+William Golding
+Life of Pi
+30
+Yann Martel
+The Odyssey
